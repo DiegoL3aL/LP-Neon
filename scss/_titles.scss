@@ -1,0 +1,51 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    color: #252B42;
+
+h3 { 
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+h4 { 
+    font-size: 2rem;
+    line-height: 112%;
+}
+
+h1, h2 { 
+    font-family: 'Poppins', sans;
+    line-height: 112%;
+    letter-spacing: -1px;
+    color: $gray-500;
+}
+
+h3, h4 { 
+    font-family: 'Poppins', sans;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    color: $gray-500;
+    
+}
+
+} 
